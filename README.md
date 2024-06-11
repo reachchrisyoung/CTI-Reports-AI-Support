@@ -6,4 +6,4 @@ As indicated, supplemented reporting practices for various methods, brands, etc.
 + [AIG CTIR Generic](AIG-CTIR-Generic) <br />
 
 ## REPORTS - Simplified Format, Specific Actor & Specific Audience
-+ [CTIR for SOC Analysts]
++ [CTIR for SOC Analysts](CTIR-for-SOC-Analysts-APT31)
