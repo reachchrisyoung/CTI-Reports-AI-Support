@@ -16,4 +16,4 @@ As indicated, supplemented reporting practices for various methods, brands, etc.
 
 ## Reports - 2nd Simplified Format, Specific Actor & Specific Audience
 
-+ [AIG Short 2 CTIR](AIG-Short-2-CTIR)
++ [AIG Short 2 CTIR on APT31](AIG-Short-2-CTIR-on-APT31)
