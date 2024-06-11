@@ -4,7 +4,7 @@ As indicated, supplemented reporting practices for various methods, brands, etc.
 ## Reports - Standard Format, Generic Focus
 
 + [IBM Standard CTIR Generic](IBM-Standard-CTIR-Generic) 
-+ [AIG Standard CTIR Generic](AIG-CTIR-Generic) 
++ [AIG Standard CTIR Generic](AIG-Standard-CTIR-Generic) 
 + [CDC Standard CTIR on APT31](CDC-Standard-CTIR-on-APT31)
 
 ## Reports - 1st Simplified Format, Specific Actor & Specific Audience
