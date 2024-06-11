@@ -30,7 +30,7 @@ As indicated, supplemented reporting practices for various methods, brands, etc.
 
 <h3> For Vulnerability Management Team </h3>
 
-+ [AIG Short 2 CTIR for Vulnerability Management Team on APT31]
++ [AIG Short 2 CTIR for Vulnerability Management Team on APT31](CTIR-Short-1-for-Vulnerability-Management-Team-on-APT31)
 + [IBM Short 2 CTIR for Vulnerability Management Team on APT31]
 + [CDC Short 2 CTIR for Vulnerability Management Team on APT31]
 
