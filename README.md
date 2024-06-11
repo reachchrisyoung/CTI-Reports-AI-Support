@@ -26,7 +26,7 @@ As indicated, supplemented reporting practices for various methods, brands, etc.
 
 + [AIG Short 2 CTIR for IT Analysts on APT31](AIG-Short-2-CTIR-for-IT-Analysts-on-APT31)
 + [IBM Short 2 CTIR for IT Analysts on APT31](IBM-Short-2-CTIR-for-IT-Analysts-on-APT31)
-+ [CDC Short 2 CTIR for IT Analysts on APT31]
++ [CDC Short 2 CTIR for IT Analysts on APT31](CDC-Short-2-CTIR-for-IT-Analysts-on-APT31)
 
 <h3> For Vulnerability Management Team </h3>
 
