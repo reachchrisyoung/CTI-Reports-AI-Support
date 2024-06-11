@@ -14,6 +14,7 @@ As indicated, supplemented reporting practices for various methods, brands, etc.
 + [CTIR Short 1 for SOC Analysts on APT31](CTIR-Short-1-for-SOC-Analysts-on-APT31)
 + [CTIR Short 1 for IT Analysts on APT31](CTIR-Short-1-for-IT-Analysts-on-APT31)
 + [CTIR Short 1 for Vulnerability Management Team on APT31](CTIR-Short-1-for-Vulnerability-Management-Team-on-APT31)
++ [CTIR Short 1 for Security Architects on APT31]
 
 ## Reports - 2nd Simplified Format, Specific Actor & Specific Audience
 
