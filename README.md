@@ -16,5 +16,8 @@ As indicated, supplemented reporting practices for various methods, brands, etc.
 
 ## Reports - 2nd Simplified Format, Specific Actor & Specific Audience
 
+<h3> For SOC Analysts </h3>
+
 + [AIG Short 2 CTIR for SOC Analysts on APT31](AIG-Short-2-CTIR-for-SOC-Analysts-on-APT31)
 + [IBM Short 2 CTIR for SOC Analysts on APT31](IBM-Short-2-CTIR-for-SOC-Analysts-on-APT31)
++ [CDC Short 2 CTIR for SOC Analysts on APT31]
