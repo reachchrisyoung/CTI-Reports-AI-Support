@@ -1,4 +1,4 @@
-# CTI-Reports-AI-Support
+# A.I.-supported CTI Report Drafting
 As indicated, supplemented reporting practices for various methods, brands, etc.
 
 ## Reports - Standard Format, Generic Focus
